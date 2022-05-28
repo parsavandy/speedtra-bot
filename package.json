@@ -1,0 +1,19 @@
+{
+  "name": "Parsa Vandy STBot",
+  "version": "1.0.0",
+  "description": "ST BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsavandy/speedtra-bot.git"
+  },
+  "author": "Parsa Vandy",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/parsavandy/speedtra-bot/issues"
+  },
+  "homepage": "https://github.com/parsavandy/speedtra-bot#readme"
+}
